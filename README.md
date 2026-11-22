@@ -91,8 +91,8 @@ According to HTTP specifications, browsers **never send `#hash` fragments in HTT
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Silenttears-cloud/Zero-knowledge-password-manager-.git
-cd Zero-knowledge-password-manager-
+git clone https://github.com/Hey-Astreon/Zero-Knowledge-Password-Manager.git
+cd Zero-Knowledge-Password-Manager
 ```
 
 ### 2. Backend Setup
@@ -152,10 +152,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 👥 Authors & Contributors
+## 👥 Authors & Core Contributors
 
-- **Ayushi Raj** ([@Silenttears-cloud](https://github.com/Silenttears-cloud))
-- **Roushan Kumar** ([@Hey-Astreon](https://github.com/Hey-Astreon))
+- **Roushan Kumar** ([@Hey-Astreon](https://github.com/Hey-Astreon)) — *Backend Architecture, Cryptographic REST API & Vault Versioning*
+- **Ayushi Raj** ([@Ayushi507](https://github.com/Ayushi507)) — *Frontend UI, Client Web Crypto State & Design System*
 
 ---
 
