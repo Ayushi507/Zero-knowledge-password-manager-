@@ -10,10 +10,16 @@
 
 <p align="center">
   <a href="https://alyra-lock.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-alyra--lock.vercel.app-00F2FE?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
-  <a href="https://github.com/Silenttears-cloud/Zero-knowledge-password-manager-"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repo" /></a>
+  <a href="https://github.com/Hey-Astreon/Zero-Knowledge-Password-Manager"><img src="https://img.shields.io/badge/GitHub-Hey--Astreon-181717?style=for-the-badge&logo=github" alt="GitHub Repo" /></a>
   <img src="https://img.shields.io/badge/Encryption-AES--256--GCM-10B981?style=for-the-badge" alt="AES-256-GCM" />
   <img src="https://img.shields.io/badge/Key%20Derivation-PBKDF2%20600K-7F00FF?style=for-the-badge" alt="PBKDF2" />
 </p>
+
+---
+
+## 👥 System Architects & Engineering Attribution
+- **Roushan Kumar** ([@Hey-Astreon](https://github.com/Hey-Astreon)) — Backend Architecture, Cryptographic REST API, Optimistic Concurrency & Vault Versioning
+- **Ayushi Raj** ([@Ayushi507](https://github.com/Ayushi507) / [@Silenttears-cloud](https://github.com/Silenttears-cloud)) — Frontend Vault UI, Web Crypto Client State & Motion Design Systems
 
 ---
 
